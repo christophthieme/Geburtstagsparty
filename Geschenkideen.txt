@@ -6,3 +6,6 @@ Essen
 Trinken
 Freude
 Schönes Wetter
+Kuchen
+Kaffee
+Bier
